@@ -18,7 +18,7 @@
     "open": "0.0.5",
     "progress": "1.1.8",
     "shelljs": "0.7.8",
-    "tarball-extract": "0.0.3"
+    "tarball-extract": "0.0.6"
   },
   "devDependencies": {
     "normalize.css": "7.0.0",
@@ -29,11 +29,11 @@
     "kw-web-suite": "5.0.1",
     "monologue.js": "0.3.5",
     "mout": "1.1.0",
-    "paraviewweb": "3.0.13",
+    "paraviewweb": "3.1.6",
     "plotly.js": "1.33.1",
     "react": "16.2.0",
     "react-dom": "16.2.0",
-    "vtk.js": "6.3.4"
+    "vtk.js": "6.4.23"
   },
   "scripts": {
     "validate": "prettier --config ./prettier.config.js --list-different \"lib/**/*.js\"",
